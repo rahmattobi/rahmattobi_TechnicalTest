@@ -1,16 +1,3 @@
-# technicaltest_rahmattobi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bahasa yang di gunakan menggunakan Flutter (Dart)
+![image](https://user-images.githubusercontent.com/49316783/208015672-c61290f5-9300-4fdd-8054-6fa7bc16cde3.png)
+![image](https://user-images.githubusercontent.com/49316783/208016217-8c3aa56b-7f28-489a-a972-b2bf72d9bf10.png)
